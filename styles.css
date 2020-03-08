@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: grey;
+    background-color:  hsl(0, 0%, 98%);
+
+}
+
+h2{
+    font-weight: 400;
+  }
+
+h3{
+  text-align: left;
+  padding: 2% 2% 0 2%;
+}
+
+.h2f{
+  margin-bottom: 0;
+  font-style: normal;
+}
+
+.h2s{
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.top1{
+    font-weight: 600;
+}
+
+.quote{
+  width: 35%;
+  margin: auto;
+  color: blue;
+  color: hsl(229, 6%, 66%);
+}
+
+.box{
+ border-style: none;
+ border-top-style:solid;
+ border-width: 5px;
+ border-color: red;
+ background-color: white;
+ display: inline-block;
+}
+
+.box p{
+  text-align: left;
+  padding: 0 2% 0 2%;
+  font-size: 15px;
+  color: blue;
+  color: hsl(229, 6%, 66%);
+}
+
+.box img{
+  margin-left: 75%;
+  padding: 2%;
+}
+
+.box1{
+  border-color: red;
+  border-color: hsl(0, 78%, 62%);
+  margin: 0;
+  width: 100%;
+  /*padding: 0;
+  width: 70%;
+  margin: 0;
+*/}
+
+.box2{
+  border-color: cyan;
+  border-color: hsl(180, 62%, 55%);
+  margin: 0;
+  width: 100%;
+}
+
+
+.box3{
+  border-color: blue;
+  border-color: hsl(212, 86%, 64%);
+  width:120%;
+  margin: 0;
+}
+
+.box4{
+  border-color: orange;
+  border-color: hsl(34, 97%, 64%);
+  width:100%;
+  margin: 0;
+  margin-top: 8%;
+}
+
+table{
+  padding: 0;
+  margin-left: 18%;
+}
+
+td{
+  padding: 0;
+  padding-right: 2%;
+}
