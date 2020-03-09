@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: grey;
     background-color:  hsl(0, 0%, 98%);
+    color: 	#505050;
 
 }
 
@@ -44,6 +45,8 @@ h3{
  border-color: red;
  background-color: white;
  display: inline-block;
+ padding: 3% 8%;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .box p{
@@ -98,7 +101,7 @@ table{
 
 td{
   padding: 0;
-  padding-right: 2%;
+  padding-right: 7%;
 }
 
 .center {
